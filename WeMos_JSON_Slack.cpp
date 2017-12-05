@@ -10,8 +10,8 @@
 
 //Includes...
 // ...this....
-#include "WeMos_Slack_Automation_Bot.h" // Do not remove!
-// ...libraries...
+#include "WeMos_JSON_Slack.h" // Do not remove!
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
 #include <LiquidCrystal.h>
